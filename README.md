@@ -1,6 +1,8 @@
 # PyBer_Analysis
 
 ## Overview 
+
+### Purpose
 The purpose of this analysis is to summarizes how the data differs by city type and how these differences can guide decisions at PyBer.
 
 ## Results
@@ -21,6 +23,8 @@ The majority of our drivers are located in the urban market. With a dense popula
 ![Pyber_Summary](/analysis/PyBer_fare_summary.png)
 
 ## Summary 
+
+### Recommendations
 Based on the results above, I would recommend three items going forward.
  1. We should continue to invest more into the suburban market. The number of drivers is still below the number of of rides and with such a high average share per ride, it could provide the necessary incentive to get these additional drivers. With this market seemingly on the rise, our investment will increase our total fares by a good amount.
  2. The urban market seems over-saturated with drivers, so we should not invest in obtaining more drivers. While there will continue to be a high number of rides, maintaining our current drivers, or allowing some to leave voluntarily, would work to increasing the average fare per driver and we would have no issue meeting demand.
